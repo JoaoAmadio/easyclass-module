@@ -1,0 +1,1 @@
+{"version":3,"file":"telefoneInstituicao.d.ts","sourceRoot":"","sources":["telefoneInstituicao.ts"],"names":[],"mappings":"AAAA,OAAO,EAIL,UAAU,EAGX,MAAM,SAAS,CAAC;AACjB,OAAO,WAAW,MAAM,eAAe,CAAC;AAGxC,MAAM,CAAC,OAAO,OAAO,mBAAoB,SAAQ,UAAU;IAElD,UAAU,EAAE,MAAM,CAAC;IAGnB,SAAS,EAAE,MAAM,CAAC;IAGlB,KAAK,EAAE,MAAM,CAAC;IAId,WAAW,EAAE,WAAW,CAAC;CACjC"}
